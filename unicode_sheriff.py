@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 # unicode sheriff v1.7
 
 import os
